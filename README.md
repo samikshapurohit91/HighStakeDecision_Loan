@@ -83,5 +83,5 @@ Admin panel
 Cloud deployment
 
 Author:
- Samiksha Purohit
+ Samiksha Purohit,
  Java Full Stack developer
