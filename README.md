@@ -1,4 +1,4 @@
-Loan Decision Support System (Frontend)
+LoanAI - Loan Decision Support System (Frontend)
 
 Project Overview
 This project is a Loan Decision Support System Frontend built using modern web technologies.
